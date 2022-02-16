@@ -1,2 +1,2 @@
 # edu-boss-fed
-。。。
+test
